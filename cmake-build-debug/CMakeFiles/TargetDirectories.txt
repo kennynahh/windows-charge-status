@@ -1,0 +1,3 @@
+C:/Users/kenny/CLionProjects/windows-charge-status/cmake-build-debug/CMakeFiles/windows_charge_status.dir
+C:/Users/kenny/CLionProjects/windows-charge-status/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kenny/CLionProjects/windows-charge-status/cmake-build-debug/CMakeFiles/rebuild_cache.dir
